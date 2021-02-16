@@ -1,3 +1,8 @@
+---
+layout: default
+title: In Würde zu sich stehen
+---
+
 ![logo](/assets/images/logo-iws.png)
 
 Das Seminar __In Würde zu sich stehen__ ist ein Gruppenprogramm für Menschen mit psychischen Erkrankungen, 
