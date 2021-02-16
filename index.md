@@ -1,6 +1,6 @@
 ## In Würde zu sich stehen
 
-![logo](assets/images/iws.png)
+![logo](/assets/images/logo-iws.png)
 
 Das Seminar In Würde zu sich stehen ist ein peergeleitetes Programm zu Offenlegung der eigenen psychischen
 Erkrankung, dem Umgamg mit Widerständen und Problemen in diesem Prozess und der damit verbundenen Minderung und Befreiung
