@@ -20,4 +20,4 @@ Das SPZ Ehrenfeld Köln bietet das Gruppenprogramm "In Würde zu sich stehen" ab
 
 ## vergangene Seminare
 
-- IWS 24.11. bis 15.12.2020 in SPZ Ehrenfeld ([Präsentation](/assets/files/FolienIWS_SPZ20.pdf)
+- IWS 24.11. bis 15.12.2020 in SPZ Ehrenfeld ([Präsentation](/assets/files/FolienIWS_SPZ20.pdf))
