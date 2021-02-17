@@ -9,4 +9,4 @@ title: Impressum
 > Genesungsbegleiter<br>
 > Vogelsanger Str. 23<br>
 > 50823 Köln
-> <info@inwuerde.de>
+> <br><info@inwuerde.de>
