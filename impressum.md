@@ -3,7 +3,7 @@ layout: default
 title: Impressum
 ---
 
-# Impressum
+# Kontakt
 
 > Thomas Richter<br>
 > Genesungsbegleiter<br>
