@@ -23,3 +23,9 @@ Experimentell: Wir planen in Zukunft [Huddle01](https://beta.huddle01.com/) für
 ## vergangene Seminare
 
 - IWS 24.11. bis 15.12.2020 in SPZ Ehrenfeld ([Präsentation](/assets/files/FolienIWS_SPZ20.pdf))
+
+## über mich
+
+Ich (thomas R. 56 Jhre alt und Genesungbegleiter in Köln) bin seit vielen Jahren immer wieder von Depressionen und Angstattacken betroffen, die dazu geführt haben, dass ich in meinem Leben schon insgesamt acht mal in in psychosomatischen oder psychiatrischen stationären bzw. tagesklinischen Einrichtungen behandelt wurde. Die Grundwunde ist eine Verlassenheitswunde, die durch ein Trennungstrauma von meiner Mutter im Alter von 3 Monaten entstanden ist. Das folgende Video von Kevin Barhydt beschreibt auch sehr gut was mir widerfahren ist und wo mein Genesungsweg verläuft:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VfDznqad-AI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
